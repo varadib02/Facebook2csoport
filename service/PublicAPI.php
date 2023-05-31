@@ -42,4 +42,6 @@ function getAPIData() {
     // Visszatérési érték JSON formátumban
     return json_encode($apiResponse);
 }
+
+// A csoport tagjai: Kéri Bence, Tóth Milán, Váradi Barnabás
 ?>
