@@ -14,4 +14,6 @@ require_once('../service/PublicAPI.php');
 $data = getAPIData();
 $file = 'api_data.json';
 file_put_contents($file, $data);
+
+// A csoport tagjai: Kéri Bence, Tóth Milán, Váradi Barnabás
 ?>
